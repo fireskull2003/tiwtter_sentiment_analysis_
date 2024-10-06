@@ -42,10 +42,10 @@ Example Output
 After running the script, the sentiment labels (Positive, Negative, Neutral) are printed along with the sentiment distribution:
 
  Sentiment Distribution:
-Positive    500
-Neutral     300
-Negative    200
-A bar plot will also be displayed showing the sentiment distribution.
+ Positive    500
+ Neutral     300
+ Negative    200
+ A bar plot will also be displayed showing the sentiment distribution.
 
 Code Breakdown
 clean_text(text): Converts the tweet text to lowercase.
