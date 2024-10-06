@@ -6,7 +6,7 @@ This repository contains a Python project that performs sentiment analysis on tw
 ## Project Structure
 + **task 1/Tweets.csv:** The dataset containing the tweets for sentiment analysis.
 + **sentiment_analysis.py:** The main script that performs data cleaning, sentiment analysis, and visualization.
-**README.md:** This file providing an overview of the project.
++ **README.md:** This file providing an overview of the project.
 ## Getting Started
 **Prerequisites**
 Ensure you have the following installed:
