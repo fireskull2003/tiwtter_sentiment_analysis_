@@ -4,8 +4,8 @@
 This repository contains a Python project that performs sentiment analysis on tweets. The project uses TextBlob to calculate the sentiment polarity of each tweet and classifies them into Positive, Negative, or Neutral categories. The results are visualized using matplotlib and seaborn.
 
 ## Project Structure
-**task 1/Tweets.csv:** The dataset containing the tweets for sentiment analysis.
-**sentiment_analysis.py:** The main script that performs data cleaning, sentiment analysis, and visualization.
++ **task 1/Tweets.csv:** The dataset containing the tweets for sentiment analysis.
++ **sentiment_analysis.py:** The main script that performs data cleaning, sentiment analysis, and visualization.
 **README.md:** This file providing an overview of the project.
 ## Getting Started
 **Prerequisites**
