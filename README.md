@@ -41,9 +41,7 @@ Visualization: Plots the distribution of sentiments using seaborn.
 Example Output
 After running the script, the sentiment labels (Positive, Negative, Neutral) are printed along with the sentiment distribution:
 
-bash
-Copy code
-Sentiment Distribution:
+# Sentiment Distribution:
 Positive    500
 Neutral     300
 Negative    200
